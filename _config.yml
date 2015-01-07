@@ -1,5 +1,5 @@
 baseurl: /space
-
+BASE_PATH ：http://almatrix.github.io/space
 
 pygments: true
 paginate: 5
