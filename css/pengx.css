@@ -459,7 +459,7 @@ h2.title
 /* 精华帖缎带的效果 */
 .featured-ribbon {
   position: absolute;
-  background:url('/image/featured-small-full.png') no-repeat;
+  background:url('/space/image/featured-small-full.png') no-repeat;
   width: 80px;
   height: 42px;
   margin-top: -24px;
