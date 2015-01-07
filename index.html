@@ -6,7 +6,7 @@ title: 我的Blog
 <div class="blog-index">  
   {% assign post = site.posts.first %}
   {% assign content = post.content %}
-  {% include post_detail.html %}
+  <div class="entry-content">{{ content }}</div>
 </div>
 <p>最新文章</p>
 <ul>
