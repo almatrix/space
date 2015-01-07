@@ -10,3 +10,8 @@ author :
   name : ming
   email : mingli.sgg@gmail.com
   github : https://github.com/almatrix
+
+
+archive_path: /space/posts.html
+categories_path : /space/categories.html
+tags_path : /space/posts.html
