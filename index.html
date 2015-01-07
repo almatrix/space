@@ -2,9 +2,10 @@
 layout: index
 title: MING LI
 ---
-<h2>{{ page.title }}</h2>
+{% include setup %}
+<!--h2>{{ page.title }}</h2>
 
-<!-- the latest post >
+<! the latest post >
 <div class="blog-index">  
   {% assign post = site.posts.first %}
   {% assign content = post.content %}
@@ -12,7 +13,7 @@ title: MING LI
 </div>
 <p></p>
 
-<!-- list of ealier posts ->
+<! list of ealier posts ->
 <p>Earlier</p>
 <ul>
 　　{% for post in site.posts %}
