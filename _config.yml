@@ -2,7 +2,7 @@ baseurl: /space
 
 
 pygments: true
-paginate: 4
+paginate: 5
 
 title : 美好地浪费生命
 tagline: Javascript R
