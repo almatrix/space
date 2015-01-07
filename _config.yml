@@ -5,9 +5,9 @@ pygments: true
 paginate: 5
 
 
-  archive_path: /space/posts.html
-  categories_path : /space/categories.html
-  tags_path : /space/posts.html
+archive_path: /space/posts.html
+categories_path : /space/categories.html
+tags_path : /space/posts.html
 
 title : 美好地浪费生命
 tagline: Javascript R
