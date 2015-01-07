@@ -9,7 +9,7 @@
       {% assign BASE_PATH = site.alm.BASE_PATH %}
       {% assign HOME_PATH = site.alm.BASE_PATH %}
     {% else %}
-      {% assign BASE_PATH = "/space" %}
+      {% assign BASE_PATH = nil %}
       {% assign HOME_PATH = "/space" %}
     {% endif %}
 
