@@ -6,7 +6,7 @@ title: "蓦然回首，那人就在灯火阑珊处"
 categories: [life]
 tags: [正能量,love,spanish]
 group: archive
-icon: love
+icon: heart
 tldr: true
 ---
 
