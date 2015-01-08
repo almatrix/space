@@ -6,7 +6,7 @@ title: "拒稿教会我的"
 categories: [work]
 tags: [工作,paper]
 group: archive
-icon: grauation-cap
+icon: graduation-cap
 featured: true
 tldr: true
 ---
