@@ -3,7 +3,7 @@ layout: post
 keywords: 
 description: 
 title: "巴萨又赢啦！"
-categories: [life,football]
+categories: [football]
 tags: [football,Barça]
 group: archive
 icon: futbol-o

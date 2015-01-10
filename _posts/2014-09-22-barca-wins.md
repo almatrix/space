@@ -3,7 +3,7 @@ layout: post
 keywords: blog
 description: blog
 title: "五连胜，零失球！"
-categories: [life, football]
+categories: [football]
 tags: [football, Barça, Messi]
 group: archive
 icon: futbol-o
