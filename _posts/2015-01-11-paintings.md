@@ -10,6 +10,6 @@ icon: pencil
 tldr: true
 ---
 
-<img src="../../../../space/image/post/150111-3paintings.jpg" />
+<img src="../../../../../image/post/150111-3paintings.jpg" />
 
 三幅图。还是能很明显地看到进步的哈！
