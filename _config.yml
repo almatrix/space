@@ -3,7 +3,7 @@ BASE_PATH : http://almatrix.github.io/space
 
 
 pygments: true
-paginate: 5
+paginate: 10
 
 
 archive_path: /space/posts.html
