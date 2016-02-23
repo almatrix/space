@@ -32,6 +32,8 @@ tldr: true
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/n4CQJvfZDyw" frameborder="0" allowfullscreen></iframe>
 
+{% video url/to/video [420 315] [../../../../video/160221_she_got_stuck.mp4] %}
+
 说来孩子的学习能力也太强了。她吃了这一次亏以后，居然就不把脚伸那么远了……o(╯□╰)o 而且还不知道从哪里学会了在这个小小的空间里发掘最大活动空间的本事。端端正正地把她平放在枕头上，隔几分钟去看，她就是各种不可思议的姿势————总之头一定不在枕头上……看得实在是太可乐了。
 
 <img src="../../../../image/post/160223_b.JPG" />
