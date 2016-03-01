@@ -28,11 +28,11 @@ tldr: true
 
 <video src="../../../../video/160221_flip_faster.mp4" width="347" height="618" controls preload></video>
 
-即使累得精疲力尽……
+即使累得精疲力尽，也自乐在其中……
 
 <video src="../../../../video/160221_tired_baby.mp4" height="347" width="618" controls preload></video>
 
-她在婴儿床里的活动也更加变本加厉。先是还不懂得保护她的栏杆也会伤害她，不由分手地把脚塞过去，结果卡进去拿不出来了，把自己弄疼了在那儿哭。
+她在婴儿床里的活动也更加变本加厉。先是还不懂得保护她的栏杆也会伤害她，不由分说地把脚塞过去。结果卡进去拿不出来了，把自己弄疼了哭。
 
 <video src="../../../../video/160221_she_got_stuck.mp4" width="347" height="618" controls preload></video>
 
