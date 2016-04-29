@@ -1,7 +1,7 @@
 baseurl : /space
 BASE_PATH : http://almatrix.github.io/space
 
-
+highlighter: rouge
 pygments: true
 paginate: 10
 
