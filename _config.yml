@@ -4,7 +4,8 @@ BASE_PATH : http://almatrix.github.io/space
 highlighter: rouge
 pygments: true
 paginate: 10
-
+gems:
+  - jekyll-feed
 
 archive_path: /space/posts.html
 categories_path : /space/categories.html
